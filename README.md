@@ -56,6 +56,10 @@ I'm an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUl
 
 - :telescope: I’m working towards an undergraduate degree in Computing and IT (Software Engineering).
 
+- 🌱 I’m currently learning all things game development👾 and software development 👨‍💻
+
+- 😄 Pronouns: He/Him/His
+
 - 🤯 Fun fact: I have a BSc in Psychiatric Nursing 
 
 - 🖥️ Exploring all things code and tech!

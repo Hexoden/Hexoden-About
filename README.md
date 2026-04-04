@@ -14,8 +14,8 @@
 
 <!-- Badges: Improved styling -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/hayden-scott-19088059" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Docker_Hub-grey?style=for-the-badge&logo=Docker&logoColor=white&labelColor=%23472a71&color=%2330955b" alt="Docker-Hub"/>
   </a>
   <a href="" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website_Coming-grey?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=%23472a71&color=%2330955b" alt="coming soon"/>

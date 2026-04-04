@@ -119,6 +119,6 @@ I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
 - 🤯 Fun fact: I have a BSc in Psychiatric Nursing
 - 🖥️ Exploring all things code and tech!
 - ⚡ In my free time, I'm either listening to music, coding or reading
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hayden-scott-19088059)
+- 📫 How to reach me: ![Joke Badge](https://img.shields.io/badge/To_Busy,_So_You_Can't!-✨-ff00ff.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0iTTQuOTMgNC45M2wyLjgzIDIuODMiLz48cGF0aCBkPSJNMTYuMjQgMTYuMjRsMi44MyAyLjgzIi8+PHBhdGggZD0iTTIgMTJoNCIvPjxwYXRoIGQ9Ik0xOCAxMmg0Ii8+PHBhdGggZD0iTTQuOTMgMTkuMDdsMi44My0yLjgzIi8+PHBhdGggZD0iTTE2LjI0IDcuNzZsMi44My0yLjgzIi8+PC9zdmc+&style=for-the-badge&labelColor=472a71&color=30955b)
 
 <hr>

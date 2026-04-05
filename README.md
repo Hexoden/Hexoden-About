@@ -57,9 +57,12 @@
       </td>
       <td align="center" width="50">
         <img src="https://cdn.simpleicons.org/Gamemaker/00ff88" width="40" alt="Gamemaker" ><br><sub>Gamemaker</sub>
+      </td>
          <td align="center" width="50">
         <img src="https://cdn.simpleicons.org/Portainer/A100FF" width="40" alt="Portainer" ><br><sub>Portainer</sub>
-      </td>
+         </td>
+           <td align="center" width="50">
+        <img src="https://cdn.simpleicons.org/Python/00ff88" width="40" alt="Python" ><br><sub>Python</sub>
       </td>
     </tr>
     <tr>
@@ -86,6 +89,9 @@
       </td>
       <td align="center" width="50">
         <img src="https://cdn.simpleicons.org/Proxmox/00ff88" width="40" alt="Proxmox" ><br><sub>Proxmox</sub>
+      </td>
+      <td align="center" width="50">
+         <img src="https://cdn.simpleicons.org/raspberrypi/A100FF" width="40" alt="Raspberry Pi" ><br><sub>Raspberry Pi</sub>
       </td>
     </tr>
   </table>

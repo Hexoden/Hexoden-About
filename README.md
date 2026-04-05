@@ -38,45 +38,54 @@
   <table>
     <tr>
       <td align="center" width="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br><sub>HTML5</sub>
+        <img src="https://cdn.simpleicons.org/HTML5/00ff88" width="40" alt="HTML5"/><br><sub>HTML5</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" alt="CSS3"/><br><sub>CSS3</sub>
+        <img src="https://cdn.simpleicons.org/CSS/A100FF" width="40" alt="CSS" ><br><sub>CSS3</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="40" alt="Java"/><br><sub>Java</sub>
+        <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=00ff88" width="40" alt="Java"/><br><sub>Java</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br><sub>JS</sub>
+        <img src="https://cdn.simpleicons.org/JavaScript/A100FF" width="40" alt="JaveScript" ><br><sub>JS</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/><br><sub>TS</sub>
+        <img src="https://cdn.simpleicons.org/TypeScript/00ff88" width="40" alt="TypeScript" ><br><sub>TS</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://icon.icepanel.io/Technology/svg/React.svg" width="40" alt="React"/><br><sub>React</sub>
+        <img src="https://cdn.simpleicons.org/React/A100FF" width="40" alt="React" ><br><sub>React</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" width="40" alt="PHP"/><br><sub>PHP</sub>
+        <img src="https://cdn.simpleicons.org/Gamemaker/00ff88" width="40" alt="Gamemaker" ><br><sub>Gamemaker</sub>
+         <td align="center" width="50">
+        <img src="https://cdn.simpleicons.org/Portainer/A100FF" width="40" alt="Portainer" ><br><sub>Portainer</sub>
+      </td>
       </td>
     </tr>
     <tr>
       <td align="center" width="50">
-        <img img src="https://cdn.simpleicons.org/git/00ff88" width="40" alt="Git"/><br><sub>Git</sub>
+        <img img src="https://cdn.simpleicons.org/git/A100FF" width="40" alt="Git"/><br><sub>Git</sub>
       </td>
       <td align="center" width="50">
          <img src="https://cdn.simpleicons.org/github/00ff88" width="40" alt="GitHub" ><br><sub>GitHub</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://cdn.simpleicons.org/wordpress/00ff88" width="40" alt="GitHub" ><br><sub>WP</sub>
+        <img src="https://cdn.simpleicons.org/wordpress/A100FF" width="40" alt="GitHub" ><br><sub>WP</sub>
       </td>
       <td align="center" width="50">
         <img src="https://img.icons8.com/?size=100&id=9t5UEEYXq0ZS&format=png&color=00ff88" width="40" alt="Visual Studio Code"/><br><sub>VS Code</sub>
       </td>
       <td align="center" width="50">
-        <img src="https://img.icons8.com/?size=100&id=121602&format=png&color=00ff88" width="40" alt="Visual Studio"/><br><sub>VS</sub>
+        <img src="https://img.icons8.com/?size=100&id=121602&format=png&color=A100FF" width="40" alt="Visual Studio"/><br><sub>VS</sub>
       </td>
       <td align="center" width="50">
         <img src="https://img.icons8.com/?size=100&id=38796&format=png&color=00ff88" width="40" alt="Linux"/><br><sub>Linux</sub>
+      </td>
+      <td align="center" width="50">
+        <img src="https://img.icons8.com/?size=100&id=22801&format=png&color=A100FF" width="40" alt="Docker"/><br><sub>Docker</sub>
+      </td>
+      <td align="center" width="50">
+        <img src="https://cdn.simpleicons.org/Proxmox/00ff88" width="40" alt="Proxmox" ><br><sub>Proxmox</sub>
       </td>
     </tr>
   </table>

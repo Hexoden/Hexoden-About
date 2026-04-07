@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Docker_Hub-grey?style=for-the-badge&logo=Docker&logoColor=white&labelColor=%23472a71&color=%2330955b" alt="Docker-Hub"/>
   </a>
   <a href="https://hexoden.github.io/Hexoden-Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website_Coming-grey?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=%23472a71&color=%2330955b" alt="Hexoden-Portfolio"/>
+    <img src="https://img.shields.io/badge/Hexoden_Portfolio-grey?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=%23472a71&color=%2330955b" alt="Hexoden-Portfolio"/>
   </a>
   <a href="https://hexoden.github.io/Christopher-ai/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Christopher_ai-252525.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgcHk9IjIiPjwvcmVjdD48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iNiIgaGVpZ2h0PSI2Ij48L3JlY3Q+PHBhdGggZD0iTTEgOWgyIj48L3BhdGg+PHBhdGggZD0iTTEgMTVoMiI+PC9wYXRoPjxwYXRoIGQ9Ik0yMSA5aDIiPjwvcGF0aD48cGF0aCBkPSJNMjEgMTVoMiI+PC9wYXRoPjxwYXRoIGQ9Ik05IDEydjIiPjwvcGF0aD48cGF0aCBkPSJNMTUgMTJ2MiI+PC9wYXRoPjxwYXRoIGQ9Ik05IDFoMiI+PC9wYXRoPjxwYXRoIGQ9Ik0xNSAxaDIiPjwvcGF0aD48cGF0aCBkPSJNOSAyMWgyIj48L3BhdGg+PHBhdGggZD0iTTE1IDIxaDIiPjwvcGF0aD48L3N2Zz4=&style=for-the-badge&labelColor=%23472a71&color=%2330955b" alt="Christopher-ai"/>

@@ -1,15 +1,10 @@
 <!-- Banner Section: Your original sliced vision -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a1/34/c0/a134c0110a7254231860ceb57d9bcb53.gif" 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBxOWtmYTQwdmR4eWFqc2ZnanJ4YXN4aTZ0ODVoejlrbjk4eHhiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WE066ErCk0Z91fLgaJ/giphy.gif" 
        width="1200"
        height="280"
        style="max-width: 100%; height: auto; object-fit: contain;" />
 </div>
-<!-- Sub-header GIFs -->
-<div align="center">
-  <img src="https://media3.giphy.com/media/14mSCGEeuqF0Kig8vo/200.webp?cid=790b76114yk84ypu5xsnruwazic8zdte31r2bhkp3xjfq0jb&ep=v1_stickers_search&rid=200.webp&ct=s" width="80"/>
-</div>
-
 <!-- Badges: Improved styling -->
 <div align="center">
   <a href="" target="_blank" rel="noopener noreferrer">
@@ -23,7 +18,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Hayds97&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
-
 <h1>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJicTJsaGtjYjZjcnRuNXFsZzE1dmFpdTdudTJ0ajU1cnNyd2g0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgWYWHWbOgu4YTbLTg/giphy.gif" width="120px"/>
   HEY there, so <strong>excited</strong> you are here!
@@ -132,6 +126,6 @@ I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
 - 🤯 Fun fact: I have a BSc in Psychiatric Nursing
 - 🖥️ Exploring all things code and tech!
 - ⚡ In my free time, I'm either listening to music, coding or reading
-- 📫 How to reach me: ![Joke Badge](https://img.shields.io/badge/To_Busy,_So_You_Can't!-✨-ff00ff.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0iTTQuOTMgNC45M2wyLjgzIDIuODMiLz48cGF0aCBkPSJNMTYuMjQgMTYuMjRsMi44MyAyLjgzIi8+PHBhdGggZD0iTTIgMTJoNCIvPjxwYXRoIGQ9Ik0xOCAxMmg0Ii8+PHBhdGggZD0iTTQuOTMgMTkuMDdsMi44My0yLjgzIi8+PHBhdGggZD0iTTE2LjI0IDcuNzZsMi44My0yLjgzIi8+PC9zdmc+&style=for-the-badge&labelColor=472a71&color=30955b)
+- 📫 How to reach me: ![Joke Badge](https://img.shields.io/badge/Send_Me_a_Message!-✨-ff00ff.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJ2NCIvPjxwYXRoIGQ9Ik0xMiAxOHY0Ii8+PHBhdGggZD0iTTQuOTMgNC45M2wyLjgzIDIuODMiLz48cGF0aCBkPSJNMTYuMjQgMTYuMjRsMi44MyAyLjgzIi8+PHBhdGggZD0iTTIgMTJoNCIvPjxwYXRoIGQ9Ik0xOCAxMmg0Ii8+PHBhdGggZD0iTTQuOTMgMTkuMDdsMi44My0yLjgzIi8+PHBhdGggZD0iTTE2LjI0IDcuNzZsMi44My0yLjgzIi8+PC9zdmc+&style=for-the-badge&labelColor=472a71&color=30955b)
 
 <hr>

@@ -1,9 +1,9 @@
 <!-- Banner Section: Your original sliced vision -->
-<div align="center">
+<div align="center" class="banner-gif">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBxOWtmYTQwdmR4eWFqc2ZnanJ4YXN4aTZ0ODVoejlrbjk4eHhiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WE066ErCk0Z91fLgaJ/giphy.gif" 
        width="1200"
        height="280"
-       style="max-width: 100%; height: auto; object-fit: contain;" />
+       style="max-width: 100%; height: auto; object-fit: contain;/>
 </div>
 <!-- Badges: Improved styling -->
 <div align="center">

@@ -146,7 +146,7 @@ I'm an Aspiring Full Stack Developer from the UK 🇬🇧.
   </tr>
 </table>
     </td>
-    <td align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4aHQzdndxcG5vbnY0OWllMWZud25ia3F2d3cwbGEzdTl0YTQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EtgTxOJPz1ATHIkbrP/giphy.gif" width="65%"/></td>
+    <td align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNxc2ZwN2kxYzVrdzEzdnA4enVmMndncW1vcDJqOHF5MzZmaDduOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIIh65KKJsB0KzY3HA/giphy.gif" width="65%"/></td>
   </tr>
   <tr>
     <td align="center">

@@ -1,11 +1,11 @@
 <!-- Banner Section-->
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>Welcome</strong><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJicTJsaGtjYjZjcnRuNXFsZzE1dmFpdTdudTJ0ajU1cnNyd2g0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgWYWHWbOgu4YTbLTg/giphy.gif"             width="120px"/></td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBxOWtmYTQwdmR4eWFqc2ZnanJ4YXN4aTZ0ODVoejlrbjk4eHhiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WE066ErCk0Z91fLgaJ/giphy.gif" 
-       width="780"
-       height="280"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRmamdsbDJqcjZkbDdtbDhqdGV1cW1uc2trazdtZGRpNGpwYnZyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" 
+       width="250"
+       height="140"/>
     </td>
   </tr>
 </table>
